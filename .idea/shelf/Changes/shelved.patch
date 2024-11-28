@@ -1,0 +1,102 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"d7e437b4-15e8-4603-89b7-4c0d999704d1\" name=\"Changes\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"2nWWWD2RBsfv7ic18yrlypGsJq5\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Python.Leon_A3.executor\": \"Run\",\n    \"Python.Leon_A4.executor\": \"Run\",\n    \"Python.T1_A3.executor\": \"Run\",\n    \"Python.T1_A4.executor\": \"Run\",\n    \"Python.T1_testat.executor\": \"Run\",\n    \"Python.V1_binar_hexad_oktal.executor\": \"Run\",\n    \"Python.V2_if.executor\": \"Run\",\n    \"Python.V3_aufgaben.executor\": \"Run\",\n    \"Python.V4_aufgaben.executor\": \"Run\",\n    \"Python.V5_aufgaben.executor\": \"Run\",\n    \"Python.V5_erster_plot.executor\": \"Run\",\n    \"Python.V6_aufgaben.executor\": \"Run\",\n    \"Python.V7_aufgabe_1.executor\": \"Run\",\n    \"Python.V7_aufgabe_2.executor\": \"Run\",\n    \"Python.V7_aufgaben.executor\": \"Run\",\n    \"Python.V7_programmierkurs.executor\": \"Run\",\n    \"Python.V8_aufgaben.executor\": \"Run\",\n    \"Python.V8_test.executor\": \"Run\",\n    \"Python.experimentieren.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"last_opened_file_path\": \"/home/linus/Documents/Studium/Physik/EP1/Jupyter\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199\" />\n        <option value=\"bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"d7e437b4-15e8-4603-89b7-4c0d999704d1\" name=\"Changes\" comment=\"\" />\n      <created>1729089344174</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1729089344174</updated>\n      <workItem from=\"1729089345544\" duration=\"1227000\" />\n      <workItem from=\"1729090616762\" duration=\"3694000\" />\n      <workItem from=\"1729693987512\" duration=\"231000\" />\n      <workItem from=\"1729694233957\" duration=\"8212000\" />\n      <workItem from=\"1730302403057\" duration=\"7359000\" />\n      <workItem from=\"1730906971765\" duration=\"1301000\" />\n      <workItem from=\"1730908304172\" duration=\"4379000\" />\n      <workItem from=\"1730981834696\" duration=\"4633000\" />\n      <workItem from=\"1731511100529\" duration=\"7742000\" />\n      <workItem from=\"1731932488756\" duration=\"1355000\" />\n      <workItem from=\"1732116046301\" duration=\"6262000\" />\n      <workItem from=\"1732722202249\" duration=\"4737000\" />\n      <workItem from=\"1732738512555\" duration=\"364000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/Jupyter$V2_if.coverage\" NAME=\"V2_if Coverage Results\" MODIFIED=\"1730985716082\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V2\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$T1_A4.coverage\" NAME=\"T1_A4 Coverage Results\" MODIFIED=\"1730984815403\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/T1\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V8_aufgaben.coverage\" NAME=\"V8_aufgaben Coverage Results\" MODIFIED=\"1732726793995\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Vorlesungen/V8\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$experimentieren.coverage\" NAME=\"experimentieren Coverage Results\" MODIFIED=\"1729093929461\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V2\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V4_aufgaben.coverage\" NAME=\"V4_aufgaben Coverage Results\" MODIFIED=\"1730908204820\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V4\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V7_aufgaben.coverage\" NAME=\"V7_aufgaben Coverage Results\" MODIFIED=\"1732119681604\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V7_incomplete\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V5_aufgaben.coverage\" NAME=\"V5_aufgaben Coverage Results\" MODIFIED=\"1732738775470\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Vorlesungen/V5\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V5_erster_plot.coverage\" NAME=\"V5_erster_plot Coverage Results\" MODIFIED=\"1730909911673\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V5\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$T1_testat.coverage\" NAME=\"T1_testat Coverage Results\" MODIFIED=\"1730983986144\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/T1\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V7_aufgabe_1.coverage\" NAME=\"V7_aufgabe_1 Coverage Results\" MODIFIED=\"1732121627307\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V7_incomplete\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V6_aufgaben.coverage\" NAME=\"V6_aufgaben Coverage Results\" MODIFIED=\"1731533240546\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V6\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V1_binar_hexad_oktal.coverage\" NAME=\"V1_binar_hexad_oktal Coverage Results\" MODIFIED=\"1729090674562\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V1\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$Leon_A4.coverage\" NAME=\"Leon_A4 Coverage Results\" MODIFIED=\"1730986055117\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/T1\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V3_aufgaben.coverage\" NAME=\"V3_aufgaben Coverage Results\" MODIFIED=\"1729708451775\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V3\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V7_programmierkurs.coverage\" NAME=\"V7_programmierkurs Coverage Results\" MODIFIED=\"1732117860186\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V7_incomplete\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V7_aufgabe_2.coverage\" NAME=\"V7_aufgabe_2 Coverage Results\" MODIFIED=\"1732122175437\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/V7_incomplete\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$V8_test.coverage\" NAME=\"V8_test Coverage Results\" MODIFIED=\"1732722548380\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Vorlesungen/V8\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$T1_A3.coverage\" NAME=\"T1_A3 Coverage Results\" MODIFIED=\"1730985796789\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/T1\" />\n    <SUITE FILE_PATH=\"coverage/Jupyter$Leon_A3.coverage\" NAME=\"Leon_A3 Coverage Results\" MODIFIED=\"1730985818409\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/T1\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 088d48d4e2c5d45168231de68a7cf50a9db55209)
++++ b/.idea/workspace.xml	(date 1732745662947)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d7e437b4-15e8-4603-89b7-4c0d999704d1" name="Changes" comment="" />
++    <list default="true" id="d7e437b4-15e8-4603-89b7-4c0d999704d1" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -20,11 +23,26 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "linusemrch2618"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/linusemrch2618/EP1",
++    "accountId": "509a2151-8270-4d8b-b8ea-6ef2c0677433"
++  }
++}]]></component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2
+ }</component>
+   <component name="ProjectId" id="2nWWWD2RBsfv7ic18yrlypGsJq5" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++    <ConfirmationsSetting value="2" id="Remove" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -51,14 +69,15 @@
+     "Python.V8_test.executor": "Run",
+     "Python.experimentieren.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "main",
+     "last_opened_file_path": "/home/linus/Documents/Studium/Physik/EP1/Jupyter",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
++    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -91,11 +110,15 @@
+       <workItem from="1732116046301" duration="6262000" />
+       <workItem from="1732722202249" duration="4737000" />
+       <workItem from="1732738512555" duration="364000" />
++      <workItem from="1732745412942" duration="250000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/Jupyter$V2_if.coverage" NAME="V2_if Coverage Results" MODIFIED="1730985716082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/V2" />
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"Black\">\n    <option name=\"sdkName\" value=\"Python 3.12\" />\n  </component>\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python (Jupyter)\" project-jdk-type=\"Python SDK\" />\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 088d48d4e2c5d45168231de68a7cf50a9db55209)
++++ b/.idea/misc.xml	(date 1732745539919)
+@@ -3,5 +3,5 @@
+   <component name="Black">
+     <option name="sdkName" value="Python 3.12" />
+   </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python (Jupyter)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 virtualenv at ~/Documents/Studium/Physik/EP1/.venv" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
