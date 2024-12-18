@@ -8,6 +8,7 @@ import pandas as pd
 ## A1
 z = np.loadtxt('V9_Daten.txt', delimiter=',', skiprows=5)
 plt.imshow(z, origin='lower')
+print(z)
 plt.colorbar()
 plt.show()
 
